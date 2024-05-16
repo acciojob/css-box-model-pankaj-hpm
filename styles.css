@@ -2,7 +2,7 @@
 /* Your CSS Code here. */
 .box{
 	width:300px;
-	background-color:lightblue;
+	background-color: rgb(0, 0, 255);
 	border:15px solid blue;
 	padding:50px;
 	margin:20px;
